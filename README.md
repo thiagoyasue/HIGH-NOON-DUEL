@@ -1,4 +1,4 @@
-# faroest
+# HIGH NOON DUEL
 # Data de Lançamento: 20/05/2019
 
 Jogo criado para a aula de Técnicas de Programação, curso de Jogos Digitais, Universidade de Mogi das Cruzes. 
