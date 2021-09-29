@@ -1,7 +1,7 @@
 # HIGH NOON DUEL
 # Data de Lançamento: 20/05/2019
 
-Jogo criado para a aula de Técnicas de Programação, curso de Jogos Digitais, Universidade de Mogi das Cruzes. 
+Jogo feito em Visual Studio C#, criado para a aula de Técnicas de Programação I, curso de Jogos Digitais, Universidade de Mogi das Cruzes. 
 
 Em High Noon Duel, você entrará na pele de três personagens clássicos de faroeste: o xerife, o caçador de recompensas e o ladrão.
 
